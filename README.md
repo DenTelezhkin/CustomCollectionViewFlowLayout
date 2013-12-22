@@ -31,3 +31,6 @@ Sometimes picture is worth a thousand words =)
 
 
 ![image](ShinyLayout.png)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DenHeadless/customcollectionviewflowlayout/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
